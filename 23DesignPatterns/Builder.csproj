@@ -35,7 +35,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Builder.cs" />
+    <Compile Include="BuilderDemo.cs" />
+    <Compile Include="BuilderTemplate.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

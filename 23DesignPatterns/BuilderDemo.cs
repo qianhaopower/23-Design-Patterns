@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _23DesignPatterns
 {
-    class Builder
+    class BuilderDemo
     {
     }
 }

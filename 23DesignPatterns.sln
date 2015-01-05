@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23DesignPatterns", "23DesignPatterns\23DesignPatterns.csproj", "{74592B63-CE00-4CAC-AFD4-EC60673A8071}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "23DesignPatterns\Builder.csproj", "{74592B63-CE00-4CAC-AFD4-EC60673A8071}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
