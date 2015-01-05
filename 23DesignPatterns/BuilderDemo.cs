@@ -10,7 +10,7 @@ namespace DoFactory.GangOfFour.Builder.RealWorld
     /// MainApp startup class for Real-World 
     /// Builder Design Pattern.
     /// </summary>
-    public class MainApp
+    public class MainApp//added from github website
     {
         /// <summary>
         /// Entry point into console application.
